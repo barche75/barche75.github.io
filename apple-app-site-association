@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "NTQ45KA4AU.com.pointpayio.PointPayBank",
-                "paths": ["/openiosapp/*"]
+                "paths": ["/*", "/openiosapp/*"]
             }
         ]
     }
