@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NTQ45KA4AU.com.pointpayio.PointPayBank"],
+        "components": [
+          {
+            "/": "/ios/*",
+            "comment": "Matches any URL whose path starts with /ios/"
+          }
+        ]
+      }
+    ]
+  }
+}
