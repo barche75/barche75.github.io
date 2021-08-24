@@ -5,6 +5,10 @@
             {
                 "appID": "NTQ45KA4AU.com.pointpayio.PointPayBank",
                 "paths": ["/ios/*"]
+            },
+             {
+                "appID": "25G384LJ7K.com.pointpayio.PointPayBank",
+                "paths": ["/ios/*"]
             }
         ]
     }
